@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+!.env.example
+coverage/
+playwright-report/
+test-results/
+.local/
+.docker/
+*.log
+
+# Arquivos locais: não publicar no GitHub.
+**/screenshot/
+**/screenshots/
+TESTE_SWAGGER.md
+VALIDACAO.md
+DOCUMENTACAO_TECNICA.md
