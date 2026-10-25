@@ -1,0 +1,14 @@
+node_modules
+**/node_modules
+**/dist
+.git
+.env
+**/.env
+.local
+test-results
+playwright-report
+**/screenshot
+**/screenshots
+**/TESTE_SWAGGER.md
+**/VALIDACAO.md
+DOCUMENTACAO_TECNICA.md
